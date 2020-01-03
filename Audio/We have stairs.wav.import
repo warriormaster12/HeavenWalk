@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/We have stairs.wav-f5e8c83fe9075959cc712a161293b562.sample"
+
+[deps]
+
+source_file="res://Audio/We have stairs.wav"
+dest_files=[ "res://.import/We have stairs.wav-f5e8c83fe9075959cc712a161293b562.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=true
+edit/normalize=true
+edit/loop=false
+compress/mode=0

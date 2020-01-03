@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/The End.wav-ce470bbccbff76df2fe8440b6e713ec0.sample"
+
+[deps]
+
+source_file="res://Audio/The End.wav"
+dest_files=[ "res://.import/The End.wav-ce470bbccbff76df2fe8440b6e713ec0.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=true
+edit/normalize=true
+edit/loop=false
+compress/mode=0

@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/Choose Da Path.wav-7f44c7f9268f343e46eeb53c517a122b.sample"
+
+[deps]
+
+source_file="res://Audio/Choose Da Path.wav"
+dest_files=[ "res://.import/Choose Da Path.wav-7f44c7f9268f343e46eeb53c517a122b.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=true
+edit/normalize=true
+edit/loop=false
+compress/mode=0

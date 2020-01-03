@@ -1,5 +1,7 @@
 # HeavenWalk
 It's a project that I made to learn Godot Engine
+![HeavnWalk](https://user-images.githubusercontent.com/33091666/71730723-92e30d80-2e4b-11ea-9abf-e10b4f692a6e.png)
+
 ## How to run it
 1.Download Godot Engine from godotengine.org
 2.git clone or download zip of the repository.
